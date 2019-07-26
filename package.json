@@ -1,0 +1,56 @@
+{
+  "name": "nickgenom.com",
+  "version": "2.0.0",
+  "description": "memahami dunia dengan internet",
+  "main": "index.php",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endilinuxmint/Nickgenom-Repos.git"
+  },
+  "keywords": [
+    "world",
+    "website",
+    "internet",
+    "image",
+    "video",
+    "link",
+    "blog",
+    "google",
+    "facebook",
+    "social",
+    "media",
+    "society",
+    "info",
+    "man",
+    "girl",
+    "html",
+    "php",
+    "js"
+  ],
+  "author": "Endi Hariadi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/endilinuxmint/Nickgenom-Repos/issues"
+  },
+  "homepage": "https://github.com/endilinuxmint/Nickgenom-Repos#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-noop": "^1.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "postcss-assets": "^5.0.0",
+    "usedcss": "^1.0.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}
